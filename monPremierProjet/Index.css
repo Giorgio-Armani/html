@@ -1,0 +1,31 @@
+#testid{
+    font-size: 50px; font-family:"Arial Black"; font-style:italic; font-weight: lighter;
+}
+.paragraghe-vert{
+    color: green; text-align:center; border: dashed red 2px; border-radius: 5px;
+}
+h1 , h2 {
+    color:black;
+}
+input[type=text] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image:url("240_F_35271114_OkmAgdW7rAiPZHUsca8gz2bmqjTkhyCv.jpg");
+    background-size: 32px 32px;
+    background-position: 5px 5px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 2%;
+    margin-top: 0px;
+    border-radius: 50px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+    width: 100%;
+}
+

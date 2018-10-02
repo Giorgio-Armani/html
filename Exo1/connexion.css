@@ -1,0 +1,30 @@
+#div-Intro{
+    font-size: 40px;
+    background: cadetblue;
+}
+#george{
+    color: red;
+}
+#div-middle{
+    font-size: 30px;
+}
+#login{
+    font-size: 30px;
+    background: cornflowerblue;
+}
+#password{
+    font-size: 30px;
+    background: cadetblue;
+}
+h1{
+    text-align: center;
+    border: red 5px double;
+    color: blue;
+    background:red;
+}
+body{
+    background: aquamarine;
+}
+h2{
+    font-size: 25px;
+}

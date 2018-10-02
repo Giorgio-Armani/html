@@ -1,0 +1,36 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+table{
+    font-size: 40px;
+
+}
+img {
+
+    border: 5px solid mediumorchid;
+
+}
+body{
+    background: lightseagreen;
+}
+img:hover{
+    border: 5px dashed yellow;
+}
+
+h2{
+    font-size: 30px;
+}
+.produit{
+    display: inline-block;
+    margin: 10px;
+}
+.prix{
+    position: absolute;
+    margin-left: 100px;
+}
+.description{
+    text-align: center;
+}
+
+
